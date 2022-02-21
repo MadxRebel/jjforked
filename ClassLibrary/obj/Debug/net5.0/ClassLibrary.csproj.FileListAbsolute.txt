@@ -1,0 +1,14 @@
+C:\Users\Ahmed Faraz\source\repos\InventoryManagmentSystem\ClassLibrary\bin\Debug\net5.0\ClassLibrary.deps.json
+C:\Users\Ahmed Faraz\source\repos\InventoryManagmentSystem\ClassLibrary\bin\Debug\net5.0\ClassLibrary.runtimeconfig.json
+C:\Users\Ahmed Faraz\source\repos\InventoryManagmentSystem\ClassLibrary\bin\Debug\net5.0\ClassLibrary.runtimeconfig.dev.json
+C:\Users\Ahmed Faraz\source\repos\InventoryManagmentSystem\ClassLibrary\bin\Debug\net5.0\ClassLibrary.dll
+C:\Users\Ahmed Faraz\source\repos\InventoryManagmentSystem\ClassLibrary\bin\Debug\net5.0\ref\ClassLibrary.dll
+C:\Users\Ahmed Faraz\source\repos\InventoryManagmentSystem\ClassLibrary\bin\Debug\net5.0\ClassLibrary.pdb
+C:\Users\Ahmed Faraz\source\repos\InventoryManagmentSystem\ClassLibrary\obj\Debug\net5.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Faraz\source\repos\InventoryManagmentSystem\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Ahmed Faraz\source\repos\InventoryManagmentSystem\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Ahmed Faraz\source\repos\InventoryManagmentSystem\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Faraz\source\repos\InventoryManagmentSystem\ClassLibrary\obj\Debug\net5.0\ClassLibrary.dll
+C:\Users\Ahmed Faraz\source\repos\InventoryManagmentSystem\ClassLibrary\obj\Debug\net5.0\ref\ClassLibrary.dll
+C:\Users\Ahmed Faraz\source\repos\InventoryManagmentSystem\ClassLibrary\obj\Debug\net5.0\ClassLibrary.pdb
+C:\Users\Ahmed Faraz\source\repos\InventoryManagmentSystem\ClassLibrary\obj\Debug\net5.0\ClassLibrary.genruntimeconfig.cache
